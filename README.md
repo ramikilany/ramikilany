@@ -25,3 +25,8 @@ Code Page B
 - Welcome
 - Today
 
+Code Page C:
+- shfgdh
+- sfdf
+- dgfgf
+- sfdf
