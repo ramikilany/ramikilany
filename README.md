@@ -14,16 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hagdshgd
-sdjsjds
-sfjsjfsj
 
-
-sfsdfd
-sdfsfsd
-dfss
-
-agdygsyd
-asfsfsd
-sdfsdfsd
-sdfsfsdf
+Code Page A
+- Print
+- Hello
+- World
