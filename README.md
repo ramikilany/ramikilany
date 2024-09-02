@@ -21,11 +21,10 @@ Experienced Information Technology Administrator with over 18 years in the indus
 <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://en.m.wikipedia.org/wiki/File:Octicons-mark-github.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://www.linode.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linode-colored.svg" width="36" height="36" alt="Linode" /></a>
-<a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"><img src="https://www.proxmox.com/images/proxmox/Proxmox-logo-stacked-150px.svg" width="36" height="36" alt="Proxmox" /></a>
-<a href="https://www.truenas.com/" target="_blank" rel="noreferrer"><img src="https://www.truenas.com/wp-content/uploads/2020/12/TrueNAS-Logo-on-white-Icon-Only-150px.png" width="36" height="36" alt="TrueNAS" /></a>
-<a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://www.pfsense.org/getattachment/pfsense/NETGATE-Acquires-pfSense/Netgate-Logo-White-on-Blue.png" width="36" height="36" alt="pfSense" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/445786/github.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://www.proxmox.com/en/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/proxmox-icon-2048x2048-i8gl93w2.png" width="36" height="36" alt="Proxmox" /></a>
+<a href="https://www.truenas.com/" target="_blank" rel="noreferrer"><img src="https://forums.truenas.com/uploads/default/original/1X/595029d7c95fa46d7722faf23ce9ceb1bc74fb30.png" width="36" height="36" alt="TrueNAS" /></a>
+<a href="https://www.pfsense.org/" target="_blank" rel="noreferrer"><img src="https://wpcomputersolutions.com/wp-content/uploads/2018/07/pfsense-logo-e1534531558807.png" width="36" height="36" alt="pfSense" /></a>
 </p>
 
                     
