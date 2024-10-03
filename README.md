@@ -4,7 +4,13 @@ Hi 👋 My name is Rami Kilany
 System Administrator | Creating innovative customized solutions | Making your digital experience effortless
 -----------------------------------------------------------------------------------------------------------
 
-Experienced Information Technology Administrator with over 18 years in the industry, I have a demonstrated history of working in the hospital and healthcare sectors, where I've played a pivotal role in driving digital transformation. My expertise spans across Linux System Administration, Switching, Hypervisor, GitOps, and DevOps, enabling me to create customized, innovative solutions that address the unique challenges of these critical environments. I specialize in optimizing IT infrastructures, ensuring robust cybersecurity, and enhancing system performance, all while maintaining a focus on user-friendly, efficient solutions. My work with institutions has been centered on streamlining operations, reducing costs, and boosting productivity through strategic IT management and cutting-edge technology integration. Let’s collaborate to make your digital experience effortless, leveraging my skills and experience to align technology with your business goals.
+Experienced Information Technology Administrator with over 18 years in the industry, I have a demonstrated history of working in the hospital and healthcare sectors, where I've played a pivotal role in driving digital transformation.
+
+My expertise spans across Linux System Administration, Switching, Hypervisor, GitOps, and DevOps, enabling me to create customized, innovative solutions that address the unique challenges of these critical environments.
+
+I specialize in optimizing IT infrastructures, ensuring robust cybersecurity, and enhancing system performance, all while maintaining a focus on user-friendly, efficient solutions.
+
+My work with institutions has been centered on streamlining operations, reducing costs, and boosting productivity through strategic IT management and cutting-edge technology integration. Let’s collaborate to make your digital experience effortless, leveraging my skills and experience to align technology with your business goals.
 
 *   🌍  I'm based in Lebanon
 *   ✉️  You can contact me at [ramikilany@gmail.com](mailto:ramikilany@gmail.com)
